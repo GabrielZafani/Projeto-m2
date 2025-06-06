@@ -21,7 +21,6 @@
     </div>
   </div>
 </div>
-
 ";
 }
 ?>
@@ -34,10 +33,12 @@
     </div>
 
      <div class="sobreMaria col-md-6">
-      <h2>Conheça Nossa História</h2>
+      <h2 class="titleC"><strong>Conheça Nossa História</strong></h2>
       <p>
-        Somos uma comunidade dedicada à fé e à união. Nossos eventos e ações promovem o amor, a partilha e o crescimento espiritual.
+        Nossa comunidade, pautada nos ensinamentos do <br> Evangelho e na devoção mariana, busca incessantemente <br> promover a fé, a caridade e a união entre seus membros. <br> Somos um lar espiritual onde cada indivíduo é acolhido <br> e incentivado a crescer em sua jornada de fé, sempre sob <br> o manto protetor de Nossa Senhora.
       </p>
+
+      <a class="aLeia" href="sobre.php">Leia mais</a>
     </div>
     
   </div>

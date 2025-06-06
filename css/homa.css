@@ -75,9 +75,9 @@ h1 {
 }
 
 .container2 {
-    background-color: #000032;
+    background-color: #ffffff;
     text-align: center;
-    color: white;
+    color: #000032;
     margin-top: 10vh
     
    
@@ -86,6 +86,23 @@ h1 {
 .imgfilhos {
     width: 100%;
     
+}
+
+.sobreMaria {
+    font-size: 2rem;
+}
+
+.titleC {
+    padding-bottom:130px ;
+}
+
+.aLeia {
+    background-color: #000032;
+    padding: 5px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #fff;
+
 }
 
 
