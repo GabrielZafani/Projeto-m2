@@ -1,3 +1,6 @@
+body {
+    overflow-x: hidden;
+}
 #offcanvasNavbar {
     background-color: #000032;
     

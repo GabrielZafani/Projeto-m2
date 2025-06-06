@@ -1,5 +1,5 @@
   
-<img class="maria" src="images/maria.png" alt="">
+<img class="maria" src="images/maria.png" alt="IMAGEM DE MARIA">
 <div class="seta-baixo">⬇</div>
 
 
@@ -26,20 +26,24 @@
 }
 ?>
 
-<div class="container">
-
-<div><img src="images/maria.png" alt=""></div>
-<div>
-<h2 class="text-center mt-5 mb-5">
-    Conheça um pouco sobre a gente!
-</h2>
-<p>
+<div class="container2 mb-5">
+  <div class="row align-items-center">
     
-</p>
+  <div class="col-md-6 text-center">
+      <img class="imgfilhos" src="images/filhosdemaria.png" alt="Imagem" class="">
+    </div>
+
+     <div class="sobreMaria col-md-6">
+      <h2>Conheça Nossa História</h2>
+      <p>
+        Somos uma comunidade dedicada à fé e à união. Nossos eventos e ações promovem o amor, a partilha e o crescimento espiritual.
+      </p>
+    </div>
+    
+  </div>
 </div>
 
 
-</div>
 
 
 
