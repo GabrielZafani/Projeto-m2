@@ -44,7 +44,9 @@ h1 {
     padding: 10px;
     font-size: 18px; 
     text-decoration: none;
+    border-radius: 4px;
 }
+
 
 .maria {
         width: 100%;
@@ -75,13 +77,12 @@ h1 {
 }
 
 .container2 {
-    background-color: #ffffff;
+    background-color: #000032;
     text-align: center;
-    color: #000032;
+    color: #ffffff;
     margin-top: 10vh
-    
-   
 }
+
 
 .imgfilhos {
     width: 100%;
@@ -92,18 +93,26 @@ h1 {
     font-size: 2rem;
 }
 
-.titleC {
-    padding-bottom:130px ;
+.textP {
+   padding: 70px 0;
 }
+    
 
 .aLeia {
-    background-color: #000032;
-    padding: 5px;
+    background-color: #DAA520;
+    padding: 10px;
     border-radius: 5px;
     text-decoration: none;
-    color: #fff;
-
+    color: #ffffff;
 }
+
+.aLeia:hover {
+    background-color: #daa520be;
+    color: #fff;
+    transition: ease 0.3s;
+}
+
+
 
 
 

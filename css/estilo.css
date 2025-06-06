@@ -25,6 +25,12 @@ body {
 
 }
 
+.contato:hover {
+    background-color: #fff;
+    color: #000032;
+    transition: ease 0.3s;
+}
+
 .navbar.scrolled {
   background-color: #000032 !important; 
   transition: background-color 0.8s ease;
