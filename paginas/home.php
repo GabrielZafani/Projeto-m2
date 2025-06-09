@@ -10,7 +10,7 @@
         <div> <h1 class="text-center mt-5 mb-5">Conheça nossos eventos!</h1></div>  
     <?php
     foreach($evento as $dados){
-        echo "<div class='col-12 col-md-4'>
+        echo "<div class='carde col-12 col-md-4'>
   <div class='card rounded-5px'>
     <img src='" . $dados['capas'] . "' class='card-img-top'>
     <div class='card-body'>
@@ -33,7 +33,7 @@
     </div>
 
      <div class="sobreMaria col-md-6">
-      <h2><strong>Conheça Nossa História</strong></h2>
+      <h2 ><strong>Conheça Nossa História</strong></h2>
       <p class="textP" >
         Nossa comunidade, pautada nos ensinamentos do <br> Evangelho e na devoção mariana, busca incessantemente <br> promover a fé, a caridade e a união entre seus membros. <br> Somos um lar espiritual onde cada indivíduo é acolhido <br> e incentivado a crescer em sua jornada de fé, sempre sob <br> o manto protetor de Nossa Senhora.
       </p>
@@ -44,7 +44,7 @@
   </div>
 </div>
 
-<div class="container3 mb-5">
+<div class="container2 mb-5">
   <div class="row align-items-center">
     
   <div class="col-md-6 text-center">

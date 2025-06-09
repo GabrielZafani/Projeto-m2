@@ -1,5 +1,5 @@
 * {
-    font-family: "Forum", serif;
+    font-family: "Forum", serif, arial;
     font-style: normal;
 }
 
@@ -11,8 +11,9 @@ h1 {
 
 .card {
     width: 350px;
-    margin:  auto; 
+    margin: 30px auto; 
     border-radius: 5px;
+
 }
 
 .text { 
@@ -90,13 +91,15 @@ h1 {
 }
 
 .sobreMaria {
-    font-size: 2rem;
+    padding: 20px;
 }
 
 .textP {
-   padding: 70px 0;
+    margin: 20px 0;
 }
-    
+
+
+  
 
 .aLeia {
     background-color: #DAA520;
