@@ -8,21 +8,25 @@
     ?>
     <div class="row"> 
       <h1 class='text-center  mt-5 mb-5'><strong>Conheça nossos eventos!</strong></h1>
-    <?php
-    foreach($evento as $dados){
-        echo "<div class='carde col-12 col-md-4'>
-  <div class='card rounded-5px'>
-    <img src='" . $dados['capas'] . "' class='card-img-top'>
-    <div class='card-body'>
-      <p class='{$dados['classe']}'>{$dados['text']}</p>
+<?php foreach($evento as $dados){
+  echo "
+  <div class='carde col-12 col-md-4 d-flex justify-content-center'>
+    <div class='card p-3 shadow rounded-4 text-center' style='width: 18rem;'>
+      <img src='" . $dados['capas'] . "' class='rounded-circle mx-auto d-block' style='width: 120px; height: 120px; object-fit: cover; margin-top: 10px;'>
+      <div class='card-body'>
+        <h5 class='card-title fw-bold'>" . $dados['text'] . "</h5>
+        <p class='card-text'>" . $dados['descricao'] . "</p>
+        <a href='#' class='btn botao rounded-pill px-4'> Saiba Mais </a>
+      </div>
     </div>
-    <div class='card-footer p-1'>
-      <a href='' class='botao w-100'>Leia mais</a>
-    </div>
-  </div>
-</div>
-";
-}
+  </div>";}
+ ?>
+
+ ?>
+
+
+
+
 ?>
 
 <div class="container2 mb-5">
@@ -38,7 +42,7 @@
         Nossa comunidade, pautada nos ensinamentos <br> do  Evangelho e na devoção mariana, busca incessantemente  promover a fé, a caridade e a <br>união entre seus membros.  Somos um lar espiritual <br> onde cada indivíduo é acolhido e incentivado a <br> crescer em sua jornada de fé, sempre sob  o manto protetor de Nossa Senhora.
       </p>
 
-      <a class="aLeia" href="sobre.php">Leia mais</a>
+      <a class="aLeia rounded-pill px-4" href="sobre.php">Saiba mais</a>
     </div>
     
   </div>
@@ -54,16 +58,16 @@
      <div class="localizacao col-md-6">
       <h2><strong>Local</strong></h2>
       <p class="textP" >
-        Capela Santo Estêvão<br> 
-        Av. Vereador Ramiro Rosolen <br>
-        Jardim Bahia <br>
-        Araruna - PR, 87260-000
+        Capela Santo Estêvão<br> <br>
+        Av. Vereador Ramiro Rosolen <br> <br>
+        Jardim Bahia <br> <br>
+        Araruna - PR, 87260-000 <br> <br>
 
       
        
       </p>
 
-      <a class="aLeiaA" href="sobre.php">Leia mais</a>
+      <a class="aLeiaA rounded-pill px-4" href="sobre.php">Leia mais</a>
     </div>
     
   </div>
