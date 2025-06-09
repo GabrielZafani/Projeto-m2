@@ -7,7 +7,7 @@
      require "eventoArray.php"
     ?>
     <div class="row"> 
-        <div> <h1 class="text-center mt-5 mb-5">Conheça nossos eventos!</h1></div>  
+      <h1 class='text-center  mt-5 mb-5'><strong>Conheça nossos eventos!</strong></h1>
     <?php
     foreach($evento as $dados){
         echo "<div class='carde col-12 col-md-4'>
@@ -35,7 +35,7 @@
      <div class="sobreMaria col-md-6">
       <h2 ><strong>Conheça Nossa História</strong></h2>
       <p class="textP" >
-        Nossa comunidade, pautada nos ensinamentos do <br> Evangelho e na devoção mariana, busca incessantemente <br> promover a fé, a caridade e a união entre seus membros. <br> Somos um lar espiritual onde cada indivíduo é acolhido <br> e incentivado a crescer em sua jornada de fé, sempre sob <br> o manto protetor de Nossa Senhora.
+        Nossa comunidade, pautada nos ensinamentos <br> do  Evangelho e na devoção mariana, busca incessantemente  promover a fé, a caridade e a <br>união entre seus membros.  Somos um lar espiritual <br> onde cada indivíduo é acolhido e incentivado a <br> crescer em sua jornada de fé, sempre sob  o manto protetor de Nossa Senhora.
       </p>
 
       <a class="aLeia" href="sobre.php">Leia mais</a>
