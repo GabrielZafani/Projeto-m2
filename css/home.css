@@ -179,6 +179,8 @@ h1 {
         height: 100vh;
     }
     
-    .localizacao
+    .localizacao {
+        font-size: 2rem;
+    }
 
 }

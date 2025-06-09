@@ -58,9 +58,9 @@
      <div class="localizacao col-md-6">
       <h2><strong>Local</strong></h2>
       <p class="textP" >
-        Capela Santo Estêvão<br> <br>
-        Av. Vereador Ramiro Rosolen <br> <br>
-        Jardim Bahia <br> <br>
+        Capela Santo Estêvão<br> 
+        Av. Vereador Ramiro Rosolen <br> 
+        Jardim Bahia <br> 
         Araruna - PR, 87260-000 <br> <br>
 
       
