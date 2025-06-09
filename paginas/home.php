@@ -44,16 +44,17 @@
   </div>
 </div>
 
-<div class="container2 mb-5">
+<div class="container3 mb-5">
   <div class="row align-items-center">
     
-  <div class="col-md-6 text-center">
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14587.465367862365!2d-52.499856652139414!3d-23.929786563545125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ed6ff3990f303b%3A0xcb3ca80b2dcf8a54!2sCapela%20Santo%20Est%C3%AAv%C3%A3o!5e0!3m2!1spt-BR!2sbr!4v1749244564863!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <div class="col-md-6 text-center">
+      <iframe class="mapa" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14587.465367862365!2d-52.499856652139414!3d-23.929786563545125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ed6ff3990f303b%3A0xcb3ca80b2dcf8a54!2sCapela%20Santo%20Est%C3%AAv%C3%A3o!5e0!3m2!1spt-BR!2sbr!4v1749244564863!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
 
      <div class="localização col-md-6">
       <h2><strong>Local</strong></h2>
       <p class="textP" >
+        Nossa comunidade está localizada na Capela Santo Estêvão, situada no coração de São José dos Pinhais, Paraná. <br> Convidamos você a nos visitar e fazer parte de nossas celebrações e atividades. <br> Estamos sempre de portas abertas para acolher novos membros e fortalecer nossa fé em conjunto.
        
       </p>
 

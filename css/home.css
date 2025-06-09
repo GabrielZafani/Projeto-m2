@@ -119,6 +119,12 @@ h1 {
     transition: ease 0.3s;
 }
 
+.mapa {
+    width: 80%;
+    height: 350px;
+    border: 1px;
+}
+
 
 
 
