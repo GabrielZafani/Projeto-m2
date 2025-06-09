@@ -26,8 +26,8 @@ body {
 }
 
 .contato:hover {
-    background-color: #fff;
-    color: #000032;
+   background-color: #daa520be;
+    color: #fff;
     transition: ease 0.3s;
 }
 
