@@ -18,6 +18,13 @@ h1 {
 
 }
 
+.card img {
+  width: 250px;    
+  height: 250px; 
+  border-radius: 5px; 
+  display: block;     
+  margin: 0 auto;    
+}
 .text { 
     padding: 5px;
     text-align: center;
@@ -55,7 +62,7 @@ h1 {
 
 .maria {
   display: block;
-  width: 100%; /* ou o tamanho desejado */
+  width: 100%; 
   height: auto;
 }
 
@@ -144,11 +151,18 @@ h1 {
     border: 1px;
 }
 
+.card-img-top {
+    width: 50px;
+    height: 50px;
+}
 
 
 
 
 @media (min-width: 1000px) {
+    .maria {
+        height: 100vh;
+    }
   
 
 }

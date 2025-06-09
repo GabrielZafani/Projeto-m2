@@ -32,13 +32,13 @@
       <div class="offcanvas-body">
         <ul class="navbar-nav justify-content-center align-items-center fs-5 flex-grow-1 pe-3">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="home.php"> <i class="fa-solid fa-house" style="color: #ffffff;"></i>Home </a>
+            <a class="nav-link active" aria-current="page" href="home.php"> <i class="fa-solid fa-house" style="color: #ffffff;"></i> Home </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="evento.php"> Eventos </a>
+            <a class="nav-link" href="evento.php"> <i class="fa-solid fa-calendar-days" style="color: #ffffff;"></i> Eventos </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="sobre.php"> Sobre </a>  
+            <a class="nav-link" href="sobre.php"> <i class="fa-solid fa-user-large" style="color: #ffffff;"></i> Sobre </a>
           </li>
         </ul>
         <div class="d-flex justify-content-center align-items-center gap-3">
