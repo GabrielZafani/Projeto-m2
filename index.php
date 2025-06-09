@@ -32,7 +32,7 @@
       <div class="offcanvas-body">
         <ul class="navbar-nav justify-content-center align-items-center fs-5 flex-grow-1 pe-3">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="home.php"> Home </a>
+            <a class="nav-link active" aria-current="page" href="home.php"> <i class="fa-solid fa-house" style="color: #ffffff;"></i>Home </a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="evento.php"> Eventos </a>
@@ -74,8 +74,49 @@
 ?>
 
     </main>
-    <footer class="fot">
-        Desenvolvido por Gabriel
+    <footer class="fot text-center">
+      <!--<h3>Redes sociais:</h3> <br>
+      
+        <a class="iconF" href="https://www.facebook.com/GrupodeOracaoOsFilhosdeMaria" target="_blank">
+        <i class="fa-brands fa-facebook fa-2xl" style="color: #DAA520;"></i></a>
+        <a class="iconF" href="https://www.instagram.com/osfilhosdemariaa/" target="_blank">
+        <i class="fa-brands fa-instagram fa-2xl" style="color: #DAA520;"></i></a>
+        <a class="iconF" href="https://www.youtube.com/@osfilhosdemaria2728/videos" target="_blank">
+        <i class="fa-brands fa-youtube fa-2xl" style="color: #DAA520;"></i></a>
+        !-->
+
+        <footer class="fot text-center">
+  <div class="container text-center">
+    <div class="row">
+      <div class="col-12 col-md-4 mb-3">
+        <h3><strong>Redes Sociais</strong></h3>
+        <a class="iconF" href="https://www.facebook.com/GrupodeOracaoOsFilhosdeMaria" target="_blank">
+          <i class="fa-brands fa-facebook" style="color: #DAA520;"></i></a>
+        <a class="iconF" href="https://www.instagram.com/osfilhosdemariaa/" target="_blank">
+          <i class="fa-brands fa-instagram" style="color: #DAA520;"></i></a>
+        <a class="iconF" href="https://www.youtube.com/@osfilhosdemaria2728/videos" target="_blank">
+          <i class="fa-brands fa-youtube" style="color: #DAA520;"></i></a>
+      </div>
+
+      <div class="col-12 col-md-4 mb-3">
+        <h3><strong>Contato</strong></h3>
+        <p>Email: agendaosfilhosdemaria@gmail.com</p>
+        <p>Tel: (44) 9 2002-4686</p>
+      </div>
+        
+      <div class="col-12 col-md-4 mb-3">
+        <h3><strong>Horários</strong></h3>
+        <p>Domingo - 19:00</p>
+        <p>Capela Santo Estêvão</p>
+        <p></p>
+      </div>
+    </div>
+  </div>
+    <hr>
+    <p class="copy">&copy Os filhos de Maria - Todos direitos reservados. </p>
+</footer>
+
+       
     </footer>
 
 <script>
