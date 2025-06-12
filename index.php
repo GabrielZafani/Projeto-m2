@@ -16,7 +16,7 @@
 <nav id="mainNavbar" class="navbar navbar-expand-lg navbar-dark bg-tranparents fixed-top ">
   <div class="container">
     <!-- Logo -->
-    <a class="navbar-brand" href="home.php"> <img class="logo" src="images/logo.jpg" alt="LOGO"></a>
+    <a class="navbar-brand" href="home"> <img class="logo" src="images/logo.jpg" alt="LOGO"></a>
     <!-- Botão de alternância para telas pequenas -->
     <button class="navbar-toggler shadow-none border-0" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -31,19 +31,19 @@
        <!-- SideBar body -->
       <div class="offcanvas-body">
         <ul class="navbar-nav justify-content-center align-items-center fs-5 flex-grow-1 pe-3">
-          <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="home.php"> <i class="fa-solid fa-house" style="color: #ffffff;"></i> Home </a>
+          <li class="nav-item mx-5">
+            <a class="nav-link active" aria-current="page" href="home"> <i class="fa-solid fa-house" style="color: #ffffff;"></i> Home </a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="evento.php"> <i class="fa-solid fa-calendar-days" style="color: #ffffff;"></i> Eventos </a>
+          <li class="nav-item mx-5">
+            <a class="nav-link" href="evento"> <i class="fa-solid fa-calendar-days" style="color: #ffffff;"></i> Eventos </a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="sobre.php"> <i class="fa-solid fa-user-large" style="color: #ffffff;"></i> Sobre </a>
+          <li class="nav-item mx-5">
+            <a class="nav-link" href="sobre"> <i class="fa-solid fa-user-large" style="color: #ffffff;"></i> Sobre </a>
           </li>
         </ul>
-        <div class="d-flex justify-content-center align-items-center gap-3">
-        <li class="nav-item contato ">
-            <a class="nav-link" href="contato.php"> Contato </a>
+        <div class="d-flex justify-content-center align-items-center ">
+        <li class="nav-item aLeia rounded-pill px-4 py-0.5">
+            <a class="nav-link" href="contato"> Contato </a>
         </li>
         </div> 
       </div>

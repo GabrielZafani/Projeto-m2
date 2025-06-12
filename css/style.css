@@ -16,23 +16,6 @@ body {
     color: #fff;
 }
 
-.contato {
-    list-style-type: none;
-    margin-right: 10px ;
-    padding-left: 0; 
-    color: #fff;
-    background-color: #DAA520;
-    padding: 5px;
-    border-radius: 5px;
-     
-
-}
-
-.contato:hover {
-    background-color: #815d00;
-    color: #fff;
-    transition: ease 0.3s;
-}
 
 .navbar.scrolled {
   background-color: #000032 !important; 
@@ -67,5 +50,7 @@ h3 {
 .copy {
     color: #797979;
 }
+
+
 
 

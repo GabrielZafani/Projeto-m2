@@ -39,23 +39,17 @@ h1 {
 .botao {
     display: block;
     text-align: center;
-    background-color: #000032;
-    color: #fff;
-    padding: 10px;
-    font-size: 18px; 
+    background-color: #DAA520;
     text-decoration: none;
-    border-radius: 4px;
+    color: #000032;
+    padding: 5px;
+    font-size: 1.2rem;
 }
 
 .botao:hover {
-    display: block;
-    text-align: center;
-    background-color: #ffffff;
+    background-color: #b3881d;
     color: #000032;
-    padding: 10px;
-    font-size: 18px; 
     text-decoration: none;
-    border-radius: 4px;
 }
 
 
@@ -84,12 +78,15 @@ h1 {
     background-color: #000032;
     text-align: center;
     color: #ffffff;
-    margin-top: 10vh
+    margin-top: 10vh;
+    
 }
 
 .container3 {
+    margin-top: 10vh;
     text-align: center;
     color: #000;
+    
 }
 
 
@@ -107,34 +104,19 @@ h1 {
     margin: 10px 0;
 }
 
-
-  
+ 
 
 .aLeia {
-    background-color: #fff;
-    padding: 8px;
-    border-radius: 5px;
+    background-color: #DAA520;
     text-decoration: none;
     color: #000032;
+    list-style-type: none;
+    font-size: 20px !important;
 }
 
 .aLeia:hover {
     background-color: #815d00;
-    color: #fff;
-    transition: ease 0.3s;
-}
-
-.aLeiaA {
-    background-color: #000032;
-    padding: 8px;
-    border-radius: 5px;
-    text-decoration: none;
     color: #ffffff;
-}
-
-.aLeiaA:hover {
-    background-color: #000032;
-    color: #fff;
     transition: ease 0.3s;
 }
 
@@ -142,11 +124,9 @@ h1 {
     padding: 20px;
 }
 
-
-
 .mapa {
     width: 80%;
-    height: 350px;
+    height: 500px;
     border: 1px;
 }
 
@@ -174,13 +154,24 @@ h1 {
 
 
 
+
+
+
 @media (min-width: 1000px) {
     .maria {
         height: 100vh;
     }
     
-    .localizacao {
-        font-size: 2rem;
+    .textC{
+        font-size: 1.7rem;
     }
 
+    h2 {
+        font-size: 2.1rem;
+    }
+
+   
+   
+  
 }
+
