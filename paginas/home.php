@@ -1,5 +1,5 @@
   
-<img class="maria" src="images/maria3.png" alt="IMAGEM DE MARIA">
+<img class="maria" src="images/mariaReal.png" alt="IMAGEM DE MARIA">
 <div class="seta-baixo">⬇</div>
 
 
@@ -16,7 +16,7 @@
       <div class='card-body'>
         <h5 class='card-title fw-bold'>" . $dados['text'] . "</h5>
         <p class='card-text'>" . $dados['descricao'] . "</p>
-        <a href='#' class='aLeia rounded-pill px-4 py-2'> Saiba Mais </a>
+        <a href='" . $dados['link'] . "' class='aLeia rounded-pill px-4 py-2'> Saiba Mais </a>
       </div>
     </div>
   </div>";}
