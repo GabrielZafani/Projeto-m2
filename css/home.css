@@ -79,6 +79,7 @@ h1 {
     text-align: center;
     color: #ffffff;
     margin-top: 10vh;
+   
     
 }
 
@@ -101,7 +102,7 @@ h1 {
 
 .textP {
     font-family: sans-serif, arial;
-    margin: 10px 0;
+    
 }
 
  
@@ -152,6 +153,19 @@ h1 {
 }
 
 
+ 
+
+  .container2 .textC h2,
+  .container2 .textC .textP,
+  .container3 .textC h2,
+  .container3 .textC .textP {
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+  }
+
+
+
+
 
 
 
@@ -170,7 +184,7 @@ h1 {
         font-size: 2.1rem;
     }
 
-   
+
    
   
 }

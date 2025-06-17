@@ -5,12 +5,11 @@
 
 body {
     overflow-x: hidden;
+    height: 100%;
 }
-#offcanvasNavbar {
-    background-color: #000032;
-    
-    
-}
+
+
+
 
 .offcanvas-title {
     color: #fff;
@@ -51,8 +50,7 @@ h3 {
     color: #797979;
 }
 
-
-    
+  
 
 
 

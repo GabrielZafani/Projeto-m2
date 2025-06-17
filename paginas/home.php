@@ -1,5 +1,5 @@
   
-<img class="maria" src="images/mariaReal.png" alt="IMAGEM DE MARIA">
+<img class="maria" src="images/maria.png" alt="IMAGEM DE MARIA">
 <div class="seta-baixo">⬇</div>
 
 
@@ -32,10 +32,10 @@
     </div>
 
      <div class="textC col-md-6">
-      <h2 ><strong>Conheça Nossa História</strong></h2> <br>
+      <h2 ><strong>Conheça Nossa História</strong></h2> 
       <p class="textP" >
         Nossa comunidade, pautada nos ensinamentos <br> do  Evangelho e na devoção mariana, busca incessantemente  promover a fé, a caridade e a <br>união entre seus membros.  Somos um lar espiritual <br> onde cada indivíduo é acolhido e incentivado a <br> crescer em sua jornada de fé, sempre sob  o manto protetor de Nossa Senhora. 
-      </p> <br><br>
+      </p> 
       <p><a class="cont2Aleia aLeia rounded-pill px-4 py-2" href="sobre.php">Saiba mais</a></p>
 
       
@@ -54,13 +54,13 @@
     </div>
 
      <div class="textC col-md-6">
-      <h2><strong>Localização</strong></h2> <br>
+      <h2 class="t2"><strong>Localização</strong></h2> 
       <p class="textP" >
         Capela Santo Estêvão<br> 
         Av. Vereador Ramiro Rosolen <br> 
         Jardim Bahia <br> 
         Araruna - PR, 87260-000 <br>
-        (Obs. Ao lado da Escola Municipal <br> Abgail de Oliveira Guimarães) <br> <br>
+        (Obs. Ao lado da Escola Municipal <br> Abgail de Oliveira Guimarães) 
 
       </p>
 
