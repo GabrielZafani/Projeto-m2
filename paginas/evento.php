@@ -6,7 +6,7 @@
     O Retiro Ventre de Nossa Senhora é um encontro animado e acolhedor, pensado para jovens que desejam aprofundar a fé e viver uma experiência transformadora. Durante o retiro, você participará de momentos intensos de louvor, oração, pregação e dinâmicas que fortalecem a amizade e o crescimento espiritual.
     </p>
     <div>
-        <h3><strong>Informações</strong></h3>
+        <h3><strong>Informações!</strong></h3>
         <ul>
             <li>
                 <p><i class="fa-solid fa-clock" style="color: #DAA520;"></i><strong> Quando: </strong> De sexta-feira a domingo, com encerramento na Santa Missa </p>
@@ -14,7 +14,7 @@
             <li>
                 <p><i class="fa-solid fa-user-group" style="color: #DAA520;"></i><strong> Para quem: </strong> Jovens a partir de 15 anos </p>
             </li>
-            <li><p><strong>O que levar:</strong></p>
+            <li><p><i class="fa-solid fa-circle-arrow-right" style="color: #DAA520;"></i><strong> O que levar:</strong></p>
                 <ul>
                     <li>
                         <p><i class="fa-solid fa-book" style="color: #DAA520;"></i> Biblia e terço</p>
@@ -40,16 +40,38 @@
     O Cinema Católico é uma iniciativa do grupo de jovens que une arte e evangelização por meio de filmes que inspiram, tocam o coração e fortalecem a fé. Mais que uma exibição, é um espaço de encontro, reflexão e partilha, onde a mensagem de Deus ganha vida através das histórias e personagens.
     </p>
     <div>
-        <h3><strong>Informações</strong></h3>
+        <h3><strong>Informações!</strong></h3>
         <ul>
             <li>
-                <p><i class="fa-solid fa-clock" style="color: #DAA520;"></i><strong> Local: </strong> No coleginho </p>
+                <p><i class="fa-solid fa-location-dot" style="color: #DAA520;"></i><strong> Local: </strong> No coleginho </p>
             </li>
             <li>
-                <p><i class="fa-solid fa-user-group" style="color: #DAA520;"></i><strong> Entrada:</strong> R$5,00 </p>
+                <p><i class="fa-solid fa-ticket" style="color: #daa520;"></i><strong> Entrada:</strong> R$5,00 </p>
             </li>
             <li>
                 <p><i class="fa-solid fa-cookie-bite" style="color: #DAA520;"></i><strong> Lanches:</strong> Teremos pipoca, refrigerante e cachorro-quente </p>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<div class="container" >
+<h2 class="textC text-center" id="noite-de-avivamento"><strong>Noite de avivamento</strong></h2>
+
+    <p class="textP">
+    A Noite de Avivamento é um tempo de graça, onde Deus toca e reacende os corações por meio do louvor, da oração e da pregação. Com convidados especiais e a presença do <strong>Ministério Kids</strong>, é um evento para toda a família viver um verdadeiro encontro com o Espírito Santo.
+    </p>
+    <div>
+        <h3><strong>Informações!</strong></h3>
+        <ul>
+            <li>
+                <p><i class="fa-solid fa-location-dot" style="color: #DAA520;"></i><strong> Local: </strong> No coleginho </p>
+            </li>
+            <li>
+                <p><i class="fa-solid fa-ticket" style="color: #daa520;"></i><strong> Entrada:</strong> Aberto para todos! </p>
+            </li>
+            <li>
+                <p><i class="fa-solid fa-cookie-bite" style="color: #DAA520;"></i><strong> Lanches:</strong> Teremos refrigerante e cachorro-quente por apenas R$10,00</p>
             </li>
         </ul>
     </div>

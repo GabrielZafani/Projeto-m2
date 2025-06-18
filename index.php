@@ -11,20 +11,21 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined&display=swap" />
   
   <style>
-    
+    /* Navbar azul para páginas internas */
     .bg-azul {
       background-color: #000032 !important;
     }
 
    
 
+    /* Sua classe para navbar transparente */
     .bg-tranparents {
       background-color: transparent !important;
     }
   </style>
 </head>
 <?php
-  
+  // Captura a página
   $pagina = "home";
   if (isset($_GET["param"])) {
       $param = explode("/", $_GET["param"]);
@@ -43,12 +44,12 @@
       <span class="navbar-toggler-icon"></span>
     </button>
     <!-- SideBar -->
-    <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+    <div class="offcanvas offcanvas-end text bg-azul" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
       <div class="offcanvas-header text-white border-bottom">
         <h5 class="offcanvas-title" id="offcanvasNavbarLabel">Os Filhos de Maria</h5>
         <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
       </div>
-      <div class="offcanvas-body">
+      <div class="offcanvas-body d-flex custom-offcanvas">
         <ul class="navbar-nav justify-content-center align-items-center fs-5 flex-grow-1 pe-3">
           <li class="nav-item mx-5">
             <a class="nav-link <?php echo $isHome ? 'active' : ''; ?>" aria-current="page" href="home"><i class="fa-solid fa-house" style="color: #ffffff;"></i> Home</a>
@@ -83,7 +84,7 @@
 <footer class="fot text-center">
   <div class="container text-center">
     <div class="row">
-      <div class="col-12 col-md-4 mb-3">
+      <div class="redes col-12 col-md-4 mb-3">
         <h3><strong>Redes Sociais</strong></h3>
         <a class="iconF" href="https://www.facebook.com/GrupodeOracaoOsFilhosdeMaria" target="_blank">
           <i class="fa-brands fa-facebook" style="color: #DAA520;"></i></a>

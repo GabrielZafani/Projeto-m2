@@ -31,12 +31,12 @@
       <img class="imgfilhos" src="images/filhosdemaria.png" alt="Imagem" >
     </div>
 
-     <div class="textC col-md-6">
+     <div class="sb textC col-md-6">
       <h2 ><strong>Conheça Nossa História</strong></h2> 
       <p class="textP" >
         Nossa comunidade, pautada nos ensinamentos <br> do  Evangelho e na devoção mariana, busca incessantemente  promover a fé, a caridade e a <br>união entre seus membros.  Somos um lar espiritual <br> onde cada indivíduo é acolhido e incentivado a <br> crescer em sua jornada de fé, sempre sob  o manto protetor de Nossa Senhora. 
       </p> 
-      <p><a class="cont2Aleia aLeia rounded-pill px-4 py-2" href="sobre.php">Saiba mais</a></p>
+      <a class=" cont2Aleia aLeia rounded-pill px-4 py-2" href="sobre.php">Saiba mais</a>
 
       
     </div>
@@ -53,7 +53,7 @@
       <iframe class="mapa" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14587.465367862365!2d-52.499856652139414!3d-23.929786563545125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ed6ff3990f303b%3A0xcb3ca80b2dcf8a54!2sCapela%20Santo%20Est%C3%AAv%C3%A3o!5e0!3m2!1spt-BR!2sbr!4v1749244564863!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
 
-     <div class="textC col-md-6">
+     <div class="loc textC col-md-6">
       <h2 class="t2"><strong>Localização</strong></h2> 
       <p class="textP" >
         Capela Santo Estêvão<br> 

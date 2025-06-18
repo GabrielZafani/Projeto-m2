@@ -1,6 +1,7 @@
 * {
     font-family: "Forum", serif, arial;
     font-style: normal;
+    overflow-x: hidden;
 }
 
 body {
@@ -10,10 +11,20 @@ body {
 
 
 
-
 .offcanvas-title {
     color: #fff;
 }
+
+
+
+.custom-offcanvas {
+  flex-direction: column;
+}
+
+.custom-offcanvas .nav-item {
+  margin-bottom: 30px;
+}
+
 
 
 .navbar.scrolled {
@@ -49,7 +60,19 @@ h3 {
 .copy {
     color: #797979;
 }
+.redes {
+    overflow: hidden;
+}
+@media (min-width: 1000px) {
+  .custom-offcanvas {
+    flex-direction: row;
+  }
 
+  .custom-offcanvas .nav-item {
+    margin-bottom: 0px;
+}
+
+}
   
 
 
