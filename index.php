@@ -11,21 +11,20 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined&display=swap" />
   
   <style>
-    /* Navbar azul para páginas internas */
+    
     .bg-azul {
       background-color: #000032 !important;
     }
 
    
 
-    /* Sua classe para navbar transparente */
     .bg-tranparents {
       background-color: transparent !important;
     }
   </style>
 </head>
 <?php
-  // Captura a página
+  
   $pagina = "home";
   if (isset($_GET["param"])) {
       $param = explode("/", $_GET["param"]);
