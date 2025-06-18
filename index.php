@@ -6,7 +6,7 @@
   <title>Filhos de Maria</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous" />
   <script src="https://kit.fontawesome.com/33c23dcc40.js" crossorigin="anonymous"></script>
-  <link rel="stylesheet" href="css/home.css" />
+  <link rel="stylesheet" href="css/pages.css" />
   <link rel="stylesheet" href="css/style.css" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined&display=swap" />
   
@@ -16,10 +16,7 @@
       background-color: #000032 !important;
     }
 
-    /* Espaço para o conteúdo abaixo da navbar, exceto na home */
-    body:not(.home) main {
-      padding-top: ; /* Ajuste conforme a altura da navbar */
-    }
+   
 
     /* Sua classe para navbar transparente */
     .bg-tranparents {
@@ -65,7 +62,7 @@
           </li>
         </ul>
         <div class="d-flex justify-content-center align-items-center">
-          <li class="nav-item aLeia rounded-pill px-4 py-0.5">
+          <li class="nav-item aLeia rounded-pill px-4 py-1">
             <a class="nav-link" href="contato">Contato</a>
           </li>
         </div>
