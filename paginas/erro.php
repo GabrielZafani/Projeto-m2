@@ -30,6 +30,7 @@
 p {
     font-size: 20px;
     font-fanily: 'Arial', sans-serif;
+    padding: 20px;
 }
 
 .btnErro {
@@ -38,5 +39,17 @@ p {
     color:rgb(255, 255, 255);
     list-style-type: none;
     font-size: 20px !important;
+    
+    
+}
+
+.btnErro:hover {
+    background-color:rgb(75, 1, 1);
+    text-decoration: none;
+    color:rgb(168, 168, 168);
+    list-style-type: none;
+    font-size: 20px !important;
+    
+    
 }
 </style>
