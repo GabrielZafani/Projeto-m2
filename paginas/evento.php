@@ -1,4 +1,4 @@
-<br>
+<br><br>
 <div class="container" >
 <h2 class="textC text-center" id="ventre-de-nossa-senhora"><strong>Ventre de nossa senhora</strong></h2>
 
@@ -32,7 +32,7 @@
     </div>
 </div>
 
-<br>
+<br><br>
 <div class="container" >
 <h2 class="textC text-center" id="mariflix"><strong>Mariflix</strong></h2>
 
@@ -46,10 +46,26 @@
                 <p><i class="fa-solid fa-location-dot" style="color: #DAA520;"></i><strong> Local: </strong> No coleginho </p>
             </li>
             <li>
-                <p><i class="fa-solid fa-ticket" style="color: #daa520;"></i><strong> Entrada:</strong> R$5,00 </p>
+                <p><i class="fa-solid fa-cookie-bite" style="color: #DAA520;"></i><strong> Lanches:</strong> Estaremos servindo pipoca, refrigerante e cachorro-quente </p>
+            </li>
+        </ul>
+    </div>
+</div>
+<br><br>
+<div class="container" >
+<h2 class="textC text-center" id="noite-de-avivamento"><strong>Noite de avivamento</strong></h2>
+
+    <p class="textP">
+    A Noite de Avivamento é um tempo de graça, onde Deus toca e reacende os corações por meio do louvor, da oração e da pregação. Com convidados especiais e a presença do <strong>Ministério Kids</strong>, é um evento para toda a família viver um verdadeiro encontro com o Espírito Santo.
+    </p>
+    <div>
+        <h3><strong>Informações!</strong></h3>
+        <ul>
+            <li>
+                <p><i class="fa-solid fa-location-dot" style="color: #DAA520;"></i><strong> Local: </strong> No coleginho </p>
             </li>
             <li>
-                <p><i class="fa-solid fa-cookie-bite" style="color: #DAA520;"></i><strong> Lanches:</strong> Teremos pipoca, refrigerante e cachorro-quente </p>
+                <p><i class="fa-solid fa-cookie-bite" style="color: #DAA520;"></i><strong> Lanches:</strong> Haverá refrigerante e cachorro-quente para todos </p>
             </li>
         </ul>
     </div>
@@ -68,10 +84,7 @@
                 <p><i class="fa-solid fa-location-dot" style="color: #DAA520;"></i><strong> Local: </strong> No coleginho </p>
             </li>
             <li>
-                <p><i class="fa-solid fa-ticket" style="color: #daa520;"></i><strong> Entrada:</strong> Aberto para todos! </p>
-            </li>
-            <li>
-                <p><i class="fa-solid fa-cookie-bite" style="color: #DAA520;"></i><strong> Lanches:</strong> Teremos refrigerante e cachorro-quente por apenas R$10,00</p>
+                <p><i class="fa-solid fa-cookie-bite" style="color: #DAA520;"></i><strong> Lanches:</strong> Haverá refrigerante e cachorro-quente para todos </p>
             </li>
         </ul>
     </div>

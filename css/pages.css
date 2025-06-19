@@ -182,7 +182,26 @@ li {
     padding: 15px 0;
 }
 
+.container4 {
+    max-width: 900px;
+    margin: 40px 1px;
+    background-color:rgb(255, 255, 255);
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 0 12px #000032;
+    text-align: center;
 
+}
+
+.pS {
+    line-height: 1.8;
+    margin: 20px 0;
+}
+
+    .imagem-grupo {
+    max-width: 100%;
+    margin-top: 20px;
+    }
 
 
 
@@ -192,7 +211,7 @@ li {
     }
     
     .textC{
-        font-size: 1.7rem;
+        font-size: 1.9rem;
     }
 
     h2 {
@@ -211,3 +230,6 @@ li {
   
 }
 
+.container4 {
+    margin: 40px auto;
+}
