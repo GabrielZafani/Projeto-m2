@@ -64,9 +64,20 @@ h3 {
     overflow: hidden;
 }
 
-pLfut{
-  
+.pLfut {
+  color: white;
+  text-decoration: none;  
 }
+
+.pLfut:hover {
+  text-decoration: underline;  
+}
+
+
+
+
+
+
 
 @media (min-width: 1000px) {
   .custom-offcanvas {
