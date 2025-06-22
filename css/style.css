@@ -63,6 +63,11 @@ h3 {
 .redes {
     overflow: hidden;
 }
+
+pLfut{
+  
+}
+
 @media (min-width: 1000px) {
   .custom-offcanvas {
     flex-direction: row;

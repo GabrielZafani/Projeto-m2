@@ -262,32 +262,9 @@ section {
     background-color: rgb(240, 240, 240) ;
 }
 
-.form-container button {
-    padding: 0.8rem;
-    background-color: #DAA520;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    font-size: 1rem;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-}
-
-.form-container button:hover {
-    background-color: #815d00;
-    color: #ffffff;
-    transition: ease 0.3s;
-}
-
-  
 
 
-@media (min-width: 768px) {
-  .textPa {
-    font-size: 1.25rem;
-    line-height: 1.8;
-  }
-}
+
 
 @media (min-width: 1000px) {
     .maria {
@@ -321,10 +298,6 @@ section {
   .textP{
     font-size: 1.4rem;
 }
- .textPa {
-    font-size: 1.4rem;
-  }
-
 
  
 section {

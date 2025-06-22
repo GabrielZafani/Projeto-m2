@@ -96,8 +96,8 @@
 
       <div class="col-12 col-md-4 mb-3">
         <h3><strong>Contato</strong></h3>
-        <p>Email: agendaosfilhosdemaria@gmail.com</p>
-        <p>Tel: (44) 9 2002-4686</p>
+         <p class="pLfut">Email: <a href="mailto:agendaosfilhosdemaria@gmail.com">agendaosfilhosdemaria@gmail.com</a></p>
+          <p class="pLfut">Telefone: <a href="tel:+55(44) 9 2002-4686">(44) 9 2002-4686</a></p>
       </div>
         
       <div class="col-12 col-md-4 mb-3">
