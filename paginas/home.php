@@ -33,9 +33,9 @@
 
      <div class="sb textC col-md-6">
       <h2 ><strong>Conheça Nossa História</strong></h2> 
-      <p class="textP" >
-        Nossa comunidade, pautada nos ensinamentos <br> do  Evangelho e na devoção mariana, busca incessantemente  promover a fé, a caridade e a <br>união entre seus membros.  Somos um lar espiritual <br> onde cada indivíduo é acolhido e incentivado a <br> crescer em sua jornada de fé, sempre sob  o manto protetor de Nossa Senhora. 
-      </p> 
+      <p class="textP ">
+      Nossa comunidade, pautada nos ensinamentos do <br> Evangelho e na devoção mariana, busca <br> incessantemente promover a fé, a caridade e a <br> união entre seus membros. Somos um lar espiritual <br> onde cada indivíduo é acolhido e incentivado a <br> crescer em sua jornada de fé, sempre sob o manto <br> protetor de Nossa Senhora.
+      </p>
       <a class=" cont2Aleia aLeia rounded-pill px-4 py-2" href="sobre.php">Saiba mais</a>
 
       
