@@ -46,7 +46,7 @@
     </div>
 
     <div class="text-center">
-      <button class="btn btn-warning rounded-pill px-4 py-2" id="botao" type="submit">Enviar</button>
+      <button class="aLeia rounded-pill px-4 py-2" id="botao" type="submit">Enviar</button>
     </div>
   </form>
 </section>
@@ -76,6 +76,11 @@
     
     if (!nome || nome.length < 3) {
       mostrarAlerta("Informe um nome válido com pelo menos 3 caracteres.");
+      return;
+    }
+
+    if (!email || email.length < 5) {
+      mostrarAlerta("Informe um email válido com pelo menos 5 caracteres.");
       return;
     }
 
@@ -137,14 +142,6 @@
     const diaAtual = hoje.getDate();
     const mesNasc = dataNasc.getMonth();
     const diaNasc = dataNasc.getDate();
-
-    if (
-      diffAnos < 13 ||
-      (diffAnos === 13 && (mesAtual < mesNasc || (mesAtual === mesNasc && diaAtual < diaNasc)))
-    ) {
-      mostrarAlerta("Você deve ter pelo menos 13 anos.");
-      return;
-    }
 
     
     if (!mensagem || mensagem.length < 5) {

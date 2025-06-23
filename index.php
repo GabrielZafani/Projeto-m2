@@ -9,6 +9,7 @@
   <link rel="stylesheet" href="css/pages.css" />
   <link rel="stylesheet" href="css/style.css" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined&display=swap" />
+  <link class="rounded-circle" rel="icon" type="image/logo.ico" href="images/logo.ico" />
   
   <style>
     /* Navbar azul para páginas internas */

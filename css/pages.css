@@ -13,7 +13,7 @@ h1 {
 .card {
     width: 350px;
     margin: 10px auto; 
-    border-radius: 5px;
+    margin-bottom: 5vh;
 }
 
 .card img{
@@ -51,7 +51,6 @@ h1 {
 
 
 .maria {
-  display: block;
   width: 100%; 
   height: auto;
 }
@@ -62,7 +61,7 @@ h1 {
   left: 50%;
   transform: translateX(-50%);
   font-size: 32px;
-  color: white; /* ou preto, dependendo do fundo da imagem */
+  color: white; 
   animation: bounce 1.2s infinite;
   
 }
@@ -110,6 +109,7 @@ h1 {
     color: #000032;
     list-style-type: none;
     font-size: 20px !important;
+    border: none;
 }
 
 .aLeia:hover {
@@ -151,23 +151,9 @@ h1 {
  
  
 
-  .container2 .textC h2,
-  .container2 .textC .textP,
-  .container3 .textC h2,
-  .container3 .textC .textP {
-    margin-top: 20px !important;
-    margin-bottom: 20px !important;
-  }
+ 
 
-  .textPa {
-  font-size: 1rem;
-  line-height: 1.6;
-  text-align: justify;
-  padding: 10px 0;
-  word-break: break-word;
-  overflow-wrap: break-word;
-  font-family: sans-serif, arial;
-}
+
 /* eventos */
 
 li {
@@ -236,26 +222,34 @@ section {
 .form-container textarea {
     width: 100%;
     padding: 0.8rem;
-    border: 1px solid #ccc;
     border-radius: 5px;
     font-size: 1rem;
 }
 
-
 .form-container input:focus,
-.form-container textarea:focus {
+.form-container textarea:focus,
+.form-container select:focus
+ {
     border-color: black;
     outline: none;
     background-color: rgb(240, 240, 240) ;
 }
 
+button{
+    border: none;
+}
 
+input, textarea, select:focus {
+  box-shadow: none !important;
+}
 
 
 @media (min-width: 1000px) {
     .maria {
         height: 100vh;
     }
+
+ 
     
     .textC{
         font-size: 1.9rem;
@@ -291,5 +285,6 @@ section {
     width: 80%; 
 
 }
+
 
 }
